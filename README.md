@@ -13,8 +13,11 @@ Tumor segmentation example
 # Files to download 
 ###### Project structure
 ├── [unetplusplus-resnet34\_best\_model.pth](https://drive.google.com/file/d/1rEsGESUilxBN8GgJVWouG0zfSXb3Efd8/view?usp=sharing)
+
 ├── experiments.ipynb
+
 ├── [train](https://drive.google.com/file/d/1VATCc18rOy8s5bD_ELxHCC4EbO0l91zU/view)
+
 └── [test](https://drive.google.com/file/d/1ovHmEUFUXgXM7XLWR9PcnbYaepb_migT/view)
 
 # How to improve:
